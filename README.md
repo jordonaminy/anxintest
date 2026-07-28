@@ -1,4 +1,10 @@
 # anxintest
 test my codex connect
+test P,
+test my codex connect
 
-codex应该能看到这行字了
+it`s good~
+
+
+
+
